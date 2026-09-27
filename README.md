@@ -146,7 +146,6 @@ telco-customer-churn/
 ├── data/
 │   ├── raw/
 │   │   └── telco_customer_churn.xlsx
-│   └── processed/
 ├── models/
 ├── notebooks/
 │   ├── 01_EDA.ipynb
